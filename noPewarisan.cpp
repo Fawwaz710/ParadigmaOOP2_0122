@@ -8,7 +8,7 @@ class baseClass final{
     }
 };
 
-class baseClass1 final{
+class baseClass1 {
     public:
     virtual void perkenalan() final{
         cout << "Hallo saya function dari base class";
